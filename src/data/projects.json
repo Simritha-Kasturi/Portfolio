@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Smart car parking system",
+      "imageSrc": "projects/scps.png",
+      "description": "Developed a user-friendly website  which deals with an effective way of finding empty spaces and managing vehicles",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://drive.google.com/file/d/11TUd5edwqzixHCu-ARTJmr6GXrknYNA9/view?usp=sharing",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "PinStream",
+      "imageSrc": "projects/psc.png",
+      "description": "Development Pinstream, a platform for sharing and discovering multimedia content.features-user authentication, content upload functionality, and real-time notifications.",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "WeatherApp",
+      "imageSrc": "projects/wa.png",
+      "description": "Developed a responsive weather application using React and API integration to fetch real-time weather data.",
+      "skills": ["React", "Express", "Node", "Tailwind CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+    
+  ]

@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Web Development Mentor",
+      "organization":"Vnrvjiet",
+      "startDate": "March, 2024",
+      "endDate": "Present",
+      "experiences": ["Mentored students in the web development course, providing guidance, support, and advice throughout their learning journey."]
+    },
+    {
+      "role": "Contributor",
+      "organization": "Social Summer of Code Season 3 (SSOC'24)",
+      "startDate": "June, 2024",
+      "endDate": "August, 2024",
+      "experiences": [
+        "Contributed to an open-source initiative by developing and enhancing features for various projects.",
+        "Collaborated with other contributors and mentors to improve project documentation and user experience."
+      ]
+    }
+    
+  ]
